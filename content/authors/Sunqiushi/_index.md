@@ -22,7 +22,8 @@ bio: I'm a naive developer
 
 interests:
 - Reading
-- Dancing
+- Cats
+- Financing
 
 education:
   courses:
